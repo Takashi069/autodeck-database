@@ -7,6 +7,14 @@
       "Number Plate": "KL __ X ____",
       "Rate": [],
       "MaxCap": 4
+    },
+    {
+      "id" : 1,
+      "name": "",
+      "phoneNumber" : "+91 0000000000",
+      "Number Plate": "KL __ X ____",
+      "Rate": [],
+      "MaxCap": 4
     }
   ]
 }
