@@ -34,7 +34,7 @@
                   }
                 ]
               }
-            ```
+         ```
     2. After inserting or removing the necessary elements, **commit** your changes using the command : `git commit -am "Commit Message"`
     3. ***[This is optional but recommended]*** Pull the repository ( using the command `git pull origin master` or `git pull` ) so as to ensure that your local repo is up-to-date.
     4. Finally, **push** your changes to the repository using the command `git push origin master` or `git push`
