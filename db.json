@@ -183,14 +183,14 @@
       "Number Plate": "KL 23 N 577",
       "Rate": [400,350,350,300],
       "MaxCap": 4
-    }
+    },
     {  "id" : 23,
       "name": "Sreekumar",
       "phoneNumber" : "+91 8606891152",
       "Number Plate": "KL 23 R 7508",
       "Rate": [400,350,350,300],
       "MaxCap": 4 
-    }
+    },
    {
       "id" : 24,
       "name": "Arun Kumar",
@@ -198,7 +198,7 @@
       "Number Plate": "KL 23 Q 1975",
       "Rate": [400,350,350,300],
       "MaxCap": 4
-   }
+   },
    {
       "id" : 25,
       "name": "Sunil",
@@ -206,7 +206,7 @@
       "Number Plate": "KL 45 R 7696",
       "Rate": [400,350,350,300],
       "MaxCap": 4
-   }
+   },
    {
       "id" : 26,
       "name": "Shiva Kumar",
