@@ -114,9 +114,9 @@
     },
     {
       "id" : 14,
-      "name": "Aravindakshan Pillai",
-      "phoneNumber" : "+91 8078359908",
-      "Number Plate": "KL 23 N 4849",
+      "name": "Aravindhashan Pillai",
+      "phoneNumber" : "+91 8547049908",
+      "Number Plate": "KL 23 J 1288",
       "Rate": [400,350,350,300],
       "MaxCap": 4
     },
@@ -308,6 +308,14 @@
     "name": "Joby",
     "phoneNumber" : "+91 9895134295",
     "Number Plate": "KL 23 L 825",
+    "Rate": [400,350,350,300],
+    "MaxCap": 4
+  },
+  {
+    "id" : 39,
+    "name": "Shemesh",
+    "phoneNumber" : "+91 9995896636",
+    "Number Plate": "KL 23 M 5613",
     "Rate": [400,350,350,300],
     "MaxCap": 4
   }
