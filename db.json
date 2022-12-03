@@ -321,7 +321,7 @@
   },
   {
     "id" : 40,
-    "name": "A Pradeep",
+    "name": "A Pradeep / Deepu",
     "phoneNumber" : "+91 9895525858",
     "Number Plate": "KL 23 G 3533",
     "Rate": [400,350,350,300],
@@ -329,14 +329,6 @@
   },
   {
     "id" : 41,
-    "name": "Deepu",
-    "phoneNumber" : "+91 9895525858",
-    "Number Plate": "KL 23 G 3533",
-    "Rate": [400,350,350,300],
-    "MaxCap": 4
-  },
-  {
-    "id" : 42,
     "name": "Dhanaraj",
     "phoneNumber" : "+91 8606061403",
     "Number Plate": "KL 23K 1499",
