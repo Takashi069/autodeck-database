@@ -331,7 +331,23 @@
     "id" : 41,
     "name": "Dhanaraj",
     "phoneNumber" : "+91 8606061403",
-    "Number Plate": "KL 23K 1499",
+    "Number Plate": "KL 23 K 1499",
+    "Rate": [400,350,350,300],
+    "MaxCap": 4
+  },
+  {
+    "id" : 42,
+    "name": "Sajith",
+    "phoneNumber" : "+91 7012483806",
+    "Number Plate": "KL 23 H 5243",
+    "Rate": [400,350,350,300],
+    "MaxCap": 4
+  },
+  {
+    "id" : 43,
+    "name": "Sajith R",
+    "phoneNumber" : "+91 9947704670",
+    "Number Plate": "KL 26 E 4419",
     "Rate": [400,350,350,300],
     "MaxCap": 4
   }
