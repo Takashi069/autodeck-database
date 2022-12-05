@@ -350,6 +350,30 @@
     "Number Plate": "KL 26 E 4419",
     "Rate": [400,350,350,300],
     "MaxCap": 4
+  },
+  {
+    "id" : 44,
+    "name": "Binu",
+    "phoneNumber" : "+91 9495500489",
+    "Number Plate": "KL 23 E 5758",
+    "Rate": [400,350,350,300],
+    "MaxCap": 4
+  },
+  {
+    "id" : 45,
+    "name": "Sudeesh M",
+    "phoneNumber" : "+91 9895793464",
+    "Number Plate": "KL 31 C 5650",
+    "Rate": [400,350,350,300],
+    "MaxCap": 4
+  },
+  {
+    "id" : 46,
+    "name": "Sasi K",
+    "phoneNumber" : "+91 8547368567",
+    "Number Plate": "KL 25 C 1045",
+    "Rate": [400,350,350,300],
+    "MaxCap": 4
   }
  ]
 }
