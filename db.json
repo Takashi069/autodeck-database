@@ -9,6 +9,14 @@
       "MaxCap": 4
     },
     {
+      "id" : 9999,
+      "name": "Akash",
+      "phoneNumber" : "+91 7907855021",
+      "Number Plate": "KL 23 M 981",
+      "Rate": [400,350,350,300],
+      "MaxCap": 4
+    },
+    {
       "id" : 1,
       "name": "Rajesh",
       "phoneNumber" : "+91 9746598959",
